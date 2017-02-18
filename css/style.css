@@ -1,0 +1,46 @@
+body {
+  margin-top: 60px;
+  background-color: #04073C;
+}
+
+h1 {
+  color: #128C2D;
+}
+
+h2 {
+  color:#0619A5;
+}
+
+h3 {
+  margin-top:30px;
+  color:#04073C;
+}
+
+h4 {
+  margin-top:30px;
+  color:#04073C;
+  border-top-color: black;
+  border-top-width:10px;
+}
+
+#main-container {
+  background-color: white;
+ margin:30px;
+  border-radius: 15px;
+ padding:30px 30px 60px 30px;
+}
+
+.center-block {
+  margin-left: auto;
+  margin-right:auto;
+  display:block;
+
+}
+
+#main-mandela-image {
+  width:100%;
+}
+
+#thumbnail-p {
+  margin-top:10px;
+}
